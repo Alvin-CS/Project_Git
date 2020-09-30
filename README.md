@@ -37,5 +37,5 @@ int main()
 [页内跳转](#五级标题)<br>
 [页内跳转](#六级标题)<br>
 
-H<sub>2</sub>O  CO<sub>2</sub>
-爆米<sup>TM</sup>
+H<sub>2</sub>O<br>
+100 cm<sup>2</sup><br>
