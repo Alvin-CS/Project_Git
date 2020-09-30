@@ -12,7 +12,7 @@
   * Dot symbol
     * Dot symbol
 
->字符包围<br>
+> 块引用<br>
 
 ![图片名称](https://avatars1.githubusercontent.com/u/32267986?s=88&u=46481aca6a681b9f7c6cc40e4b1eae40a5a39d18&v=4 "Github")
 
@@ -39,3 +39,13 @@ int main()
 
 H<sub>2</sub>O<br>
 100 cm<sup>2</sup><br>
+
+*强调* (示例：斜体)  
+_强调_ (示例：斜体)  
+**加重强调** (示例：粗体)   
+__加重强调__ (示例：粗体)   
+***特别强调*** (示例：粗斜体)   
+___特别强调___ (示例：粗斜体)   
+
+> [学习网站 1](https://www.jianshu.com/p/9349ebcb14a6)<br>
+> []
